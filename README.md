@@ -1,12 +1,7 @@
 <!-- Profile README for sabrinaderose -->
 <a name="top"></a>
-
-<div align="right">
-  ⤵️ [End of Page](#bottom)
-</div>
-
-# Sabrina de Rose
-
+## Sabrina de Rose (That's me, woah!)
+---
 > Studying Network Engineering & Security at WGU. Focused on building resilient systems, documenting complex problems, and learning through implementation.
 
 ---
@@ -16,13 +11,18 @@
 
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sabrinaderose&show_icons=true&theme=tokyonight&hide=issues" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaderose&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
+
+## 🔗 Access My Résumé
+[View Resume →](https://github.com/sabrinaderose/resume)
 
 ---
 
@@ -93,8 +93,5 @@ I build, test, and refine technical environments through self-directed home labs
 📧 Email: faefluffkrist@gmail.com  
 🔗 GitHub: github.com/sabrinaderose
 ```
-<div align="right">
-  ⤴️ [Back to Top](#top)
-</div>
 
 <a name="bottom"></a>
