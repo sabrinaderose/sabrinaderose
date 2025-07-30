@@ -19,10 +19,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinaderose&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sabrinaderose&theme=github-compact" alt="Activity Graph" />
-</p>
-
 ---
 
 ## 🔹 Professional Summary
@@ -45,6 +41,12 @@ I build, test, and refine technical environments through self-directed home labs
 | [`core-system-monitoring-logs`](https://github.com/sabrinaderose/core-system-monitoring-logs) | Real-time system monitoring using rsyslog, logwatch, uptime tools |
 | [`core-pihole-dns-setup`](https://github.com/sabrinaderose/core-pihole-dns-setup) | LAN-scoped DNS filtering and static IP setup using Pi-hole and iptables |
 | [`arch-linux-recovery-from-usb-corruption`](https://github.com/sabrinaderose/arch-linux-recovery-from-usb-corruption) | Boot recovery and full repair of corrupted partitions on Arch Linux |
+
+---
+
+<p align="center">
+  <img src="https://github.com/sabrinaderose/resume/blob/main/piterminal.gif?raw=true" alt="Terminal GIF" width="90%" />
+</p>
 
 ---
 
