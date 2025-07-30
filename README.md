@@ -45,7 +45,7 @@ I build, test, and refine technical environments through self-directed home labs
 ---
 
 <p align="center">
-  <img src="https://github.com/sabrinaderose/resume/blob/main/piterminal.gif?raw=true" alt="Terminal GIF" width="90%" />
+  <img src="./piterminal.gif" alt="There is no boundary between user and host. (｡•́︿•̀｡)ﾉ" width="600" />
 </p>
 
 ---
