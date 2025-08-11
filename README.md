@@ -90,7 +90,7 @@ I build, test, and refine technical environments through self-directed home labs
 ## 📬 Contact
 
 ```text
-📧 Email: faefluffkrist@gmail.com  
+📧 Email: sabrinaderose@protonmail.com  
 🔗 GitHub: github.com/sabrinaderose
 ```
 
