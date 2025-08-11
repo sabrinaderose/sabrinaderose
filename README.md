@@ -2,7 +2,7 @@
 <a name="top"></a>
 ## Sabrina de Rose (That's me, woah!)
 ---
-> Studying Network Engineering & Security at WGU. Focused on building resilient systems, documenting complex problems, and learning through implementation.
+> Studying Cloud & Network Engineering at WGU. Focused on building resilient systems, documenting complex problems, and learning through implementation.
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 🔹 Professional Summary
 
-Network Engineering & Security student with a practical focus on Linux systems, secure networking, and structured troubleshooting.  
+Cloud & Network Engineering student with a practical focus on Linux systems, secure networking, and structured troubleshooting.  
 I build, test, and refine technical environments through self-directed home labs and continuous documentation.
 
 - CLI-first environments, with fallback to GUI when necessary  
